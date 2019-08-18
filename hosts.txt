@@ -36,6 +36,7 @@
 ||py69.cn^
 ||jyjyyj.cn^
 ||ylxyp.cn^
+! Shareit application
 ||ushareit.com^
 ||wshareit.com^
 ||mopub.com^

@@ -1,4 +1,4 @@
-#Custom Hosts File Setting by https://github.com/DavidTai780/
+! Title : Custom Hosts Domain Filter
 176.103.130.135 baomitu.com
 ||exosrv.com^
 ||popads.net^
@@ -37,6 +37,7 @@
 ||jyjyyj.cn^
 ||ylxyp.cn^
 ||ushareit.com^
+||wshareit.com^
 ||mopub.com^
 ||pushsar.com^
 ||rtclocketsun.info^
@@ -56,6 +57,7 @@
 ||vkjnd.com^
 ||r0kuic.cn^
 ||militango.cn^
-||wshareit.com^
 ||qzzxjc.com^
 ||bosatria.cn^
+!IPv6 test for test-ipv6.com
+@@||test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com

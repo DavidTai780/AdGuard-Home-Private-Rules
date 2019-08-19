@@ -62,3 +62,4 @@
 ||bosatria.cn^
 !IPv6 test for test-ipv6.com
 @@||test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com
+@@||music.126.net^

@@ -1,4 +1,4 @@
-! Title : Custom Hosts Domain Filter
+! Title : Custom Hosts Domain Filter for AdGuard
 176.103.130.135 baomitu.com
 ||exosrv.com^
 ||popads.net^

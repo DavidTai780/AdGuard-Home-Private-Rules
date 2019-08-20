@@ -50,6 +50,7 @@
 ||anqingtb.com^
 ||sandai.net^
 @@||down.sandai.net^
+! Unlock Watch History for YouTube Apps
 @@||s.youtube.com
 ||tcn5zy.top^
 ||w1xj2.cn^

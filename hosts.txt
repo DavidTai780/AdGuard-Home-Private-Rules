@@ -83,3 +83,4 @@
 @@||www.360.cn
 ||so.com^
 ||qmlog.cn^
+||adservice.google.com.my^

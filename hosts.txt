@@ -84,3 +84,5 @@
 ||so.com^
 ||qmlog.cn^
 ||adservice.google.com.my^
+||qunar.com^
+||xyunxo0.cn^

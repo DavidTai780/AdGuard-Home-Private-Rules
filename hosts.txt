@@ -82,3 +82,4 @@
 ||360.cn^
 @@||www.360.cn
 ||so.com^
+||qmlog.cn^

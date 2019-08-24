@@ -22,7 +22,6 @@
 ||openrcv.baidu.com^$important
 ||bridgewell.com^
 ||bridgewell.com.tw^
-||360.cn^
 ||dlads.cn^
 ||douyaobuy.com^
 @@||static.xx.fbcdn.net^
@@ -80,3 +79,6 @@
 ||aimei123.top^
 ||file.zbgsw.com^
 ||178j.me^
+||360.cn^
+@@||360.cn^
+@@||www.360.cn^

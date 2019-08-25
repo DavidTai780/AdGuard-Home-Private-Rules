@@ -1,4 +1,4 @@
-! Title : Custom Hosts Domain Filter for AdGuard
+# Title : Custom Hosts Domain Filter for AdGuard
 176.103.130.135 baomitu.com
 ||exosrv.com^
 ||popads.net^
@@ -35,7 +35,7 @@
 ||py69.cn^
 ||jyjyyj.cn^
 ||ylxyp.cn^
-! Shareit application
+# Shareit application
 ||ushareit.com^
 ||wshareit.com^
 ||mopub.com^
@@ -49,7 +49,7 @@
 ||anqingtb.com^
 ||sandai.net^
 @@||down.sandai.net^
-! Unlock Watch History for YouTube Apps
+# Unlock Watch History for YouTube Apps
 @@||s.youtube.com
 ||tcn5zy.top^
 ||w1xj2.cn^
@@ -60,14 +60,14 @@
 ||militango.cn^
 ||qzzxjc.com^
 ||bosatria.cn^
-! IPv6 test for test-ipv6.com
+# IPv6 test for test-ipv6.com
 @@||test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com
 @@||music.126.net^
 ||wuwuhh.top^
 ||rheazx.cn^
 ||q671e.cn^
 ||bcyjsd.top^
-! http://app.iqiyi.com/tv/player/
+# http://app.iqiyi.com/tv/player/
 ||397c0.admaster.com.cn^
 ||msg.71.am^
 ||mixer.cupid.ptqy.gitv.tv

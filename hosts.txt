@@ -172,3 +172,4 @@
 ||baiduvip.website^
 ||shengbaijinfu.cn^
 ||intxt.cn^
+||jsnjmh4.top^

@@ -17,7 +17,6 @@
 ||pagead2.googlesyndication.com^$important
 /ibet/
 @@||simg.sinajs.cn
-@@||mabpassportsdk.gm99.com^$important
 ||ali-stats.jpush.cn^$important
 ||openrcv.baidu.com^$important
 ||bridgewell.com^

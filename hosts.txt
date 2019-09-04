@@ -7,6 +7,8 @@
 ||rvlif.cn^
 ||xunlei.com^
 @@||dl.xunlei.com
+||sandai.net^
+@@||down.sandai.net^
 ||mbai.cn^
 ||umeng.com^
 ||victory1999.com^
@@ -45,8 +47,6 @@
 ||meilinyun.cn^
 ||jspassport.ssl.qhimg.com^
 ||anqingtb.com^
-||sandai.net^
-@@||down.sandai.net^
 @@||s.youtube.com
 ||tcn5zy.top^
 ||w1xj2.cn^
@@ -76,7 +76,7 @@
 ||file.zbgsw.com^
 ||178j.me^
 ||360.cn^
-@@||www.360.cn
+@@||www.360.cn^
 ||so.com^
 ||qmlog.cn^
 ||adservice.google.com.my^

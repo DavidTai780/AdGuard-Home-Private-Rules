@@ -58,6 +58,7 @@
 ||militango.cn^
 ||qzzxjc.com^
 ||bosatria.cn^
+# Unlock test-ipv6.com testing server
 @@||test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com
 @@||music.126.net^
 ||wuwuhh.top^

@@ -47,6 +47,7 @@
 ||meilinyun.cn^
 ||jspassport.ssl.qhimg.com^
 ||anqingtb.com^
+# Unlock YouTube Apps History Function
 @@||s.youtube.com
 ||tcn5zy.top^
 ||w1xj2.cn^

@@ -9,7 +9,7 @@
 ||hfzjq.cn^$important
 ||rvlif.cn^$important
 ||xunlei.com^$important
-@@||dl.xunlei.com
+@@||dl.xunlei.com^$important
 ||sandai.net^$important
 @@||down.sandai.net^$important
 ||mbai.cn^$important
@@ -21,7 +21,7 @@
 ||adjust.com^$important
 ||pagead2.googlesyndication.com^$important
 /ibet/
-@@||simg.sinajs.cn
+@@||simg.sinajs.cn^$important
 ||ali-stats.jpush.cn^$important
 ||openrcv.baidu.com^$important
 ||bridgewell.com^$important
@@ -51,7 +51,7 @@
 ||jspassport.ssl.qhimg.com^$important
 ||anqingtb.com^$important
 # Unlock YouTube Apps History Function
-@@||s.youtube.com
+@@||s.youtube.com^$important
 ||tcn5zy.top^$important
 ||w1xj2.cn^$important
 ||w2xj1.cn^$important
@@ -62,7 +62,7 @@
 ||qzzxjc.com^$important
 ||bosatria.cn^$important
 # Unlock test-ipv6.com testing server
-@@||test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com
+@@||test-ipv6-dot-com-v6exp3-v4.metric.gstatic.com^$important
 @@||music.126.net^$important
 ||wuwuhh.top^$important
 ||rheazx.cn^$important
@@ -71,11 +71,11 @@
 # http://app.iqiyi.com/tv/player/
 ||397c0.admaster.com.cn^$important
 ||msg.71.am^$important
-||mixer.cupid.ptqy.gitv.tv
-||msg.ptqy.gitv.tv
-||msga.ptqy.gitv.tv
-||store.ptqy.gitv.tv
-||t7z.cupid.ptqy.gitv.tv
+||mixer.cupid.ptqy.gitv.tv^$important
+||msg.ptqy.gitv.tv^$important
+||msga.ptqy.gitv.tv^$important
+||store.ptqy.gitv.tv^$important
+||t7z.cupid.ptqy.gitv.tv^$important
 ||mdbybyd.top^$important
 ||aimei123.top^$important
 ||file.zbgsw.com^$important

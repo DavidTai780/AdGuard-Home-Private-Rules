@@ -1,4 +1,7 @@
 ! Title : Custom Hosts Domain Filter for AdGuard
+! Block Google Play Ads
+||pagead.l.doubleclick.net^
+||www.googleadservices.com^
 176.103.130.135 baomitu.com
 ||exosrv.com^
 ||popads.net^

@@ -299,3 +299,6 @@
 ||fyxzhubao.com^$important
 ||yoossss.com^$important
 ||udbyv8918.com^$important
+||sqrxh.cn^$important
+||jflqb.cn^$important
+||lvroe.cn^$important

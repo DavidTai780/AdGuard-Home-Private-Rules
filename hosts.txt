@@ -316,3 +316,13 @@
 ||lpyq.com.cn^$important
 ||nfrp.com.cn^$important
 ||prjl.com.cn^$important
+||tianjianjia.com^$important
+||coveredsys.cn^$important
+||pokerking.top^$important
+||helloworld2018.top^$important
+||jianghaioa.top^$important
+||tanli.top^$important
+||xiaoluoweb.top^$important
+||qgmm1013.top^$important
+||282931.top^$important
+||ggdown.com^$important

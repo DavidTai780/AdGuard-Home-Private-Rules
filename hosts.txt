@@ -369,3 +369,6 @@
 ||ty8090.cn^$important
 ||ptgezc.com^$important
 ||vrqjgc.cn^$important
+||xiangheyaoyang.com^$important
+||ptgezc.com^$important
+||sqkcjg.com^$important

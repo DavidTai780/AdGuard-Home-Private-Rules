@@ -365,3 +365,7 @@
 ||yssnzp.cn^$important
 ||yxhcsc.cn^$important
 ||32xbxb.com^$important
+||etuch.cn^$important
+||ty8090.cn^$important
+||ptgezc.com^$important
+||vrqjgc.cn^$important

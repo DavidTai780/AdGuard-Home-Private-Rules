@@ -42,6 +42,7 @@
 ||ushareit.com^$important
 ||wshareit.com^$important
 ||shareitgames.com^$important
+||alicdn.xyz^$important
 ||sonelli.com^$important
 ||rqmob.com^$important
 ||mopub.com^$important

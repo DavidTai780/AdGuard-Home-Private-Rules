@@ -42,6 +42,8 @@
 ||ushareit.com^$important
 ||wshareit.com^$important
 ||shareitgames.com^$important
+||sonelli.com^$important
+||rqmob.com^$important
 ||mopub.com^$important
 ||pushsar.com^$important
 ||rtclocketsun.info^$important

@@ -337,7 +337,6 @@
 ||laolingshen.cn^$important
 ||qm934o.cn^$important
 ||guandaopj.cn^$important
-||moqing.com^$important
 ||pkc75.cn^$important
 ||cp59l.cn^$important
 ||yq79c.cn^$important

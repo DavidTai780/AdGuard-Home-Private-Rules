@@ -416,3 +416,9 @@
 ||jianyin666.com^$important
 ||ningbogongniu.com^$important
 ||sujieb2c.com^$important
+||fraudmetrix.cn^$important
+||tongdun.net^$important
+||tongdun.cn^$important
+||balifire.com^$important
+||bestleleu.com^$important
+||phpape.com^$important

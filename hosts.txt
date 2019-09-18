@@ -423,3 +423,4 @@
 ||bestleleu.com^$important
 ||phpape.com^$important
 ||meituan.net^$important
+||qqopenapp.com^$important

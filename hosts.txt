@@ -422,3 +422,4 @@
 ||balifire.com^$important
 ||bestleleu.com^$important
 ||phpape.com^$important
+||meituan.net^$important

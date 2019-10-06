@@ -1,4 +1,4 @@
-! Title : Custom Hosts Domain Filter for AdGuard
+! Title: Custom Hosts Domain Filter for AdGuard
 ! Block Google Play Ads
 ||pagead.l.doubleclick.net^$important
 ||www.googleadservices.com^$important

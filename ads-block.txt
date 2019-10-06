@@ -1,4 +1,4 @@
-# Private Ads Block List
+! Title: Private Ads Block List
 ||exosrv.com^
 ||popads.net^
 ||padssup.com^

@@ -2,6 +2,9 @@
 ! Version: 2022-01-12 19:44:49
 !
 !
+! Phishing Website
+||s1nchew.com^
+||s1nchew.fun^
 !lpcontent -- annoying ads content
 ||lpcontent.net^
 ||easylife205.icu^

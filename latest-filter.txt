@@ -3,6 +3,9 @@
 !
 !
 ! Phishing Website
+||sinchewpage.com^
+||sinchewblog.com^
+||sinchewplay.com^
 ||s1nchew.com^
 ||s1nchew.fun^
 !lpcontent -- annoying ads content

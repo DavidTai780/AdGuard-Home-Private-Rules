@@ -4,13 +4,14 @@
 !
 ! Phishing Website
 ||sinchew.me^
+||sinchewnow.com^
 ||sinchew.website^
 ||sinchewpage.com^
 ||sinchewblog.com^
 ||sinchewplay.com^
 ||s1nchew.com^
 ||s1nchew.fun^
-!lpcontent -- annoying ads content
+! lpcontent -- annoying ads content
 ||lpcontent.net^
 ||easylife205.icu^
 ||12w1n.wasap.my^

@@ -1,6 +1,0 @@
-m.deskcity.org##div.footer:nth-child(17) > div.bottom_fixed:nth-child(2) > a:first-child > img
-ck101.com###shopping-links-wrap
-ck101.com###post_122843790 > article > div.article_plc_user:last-child > div:nth-child(5) > div:first-child
-||patithatspartal.pro^$third-party
-||content-cdn.y2mate.com^$domain=y2mate.com
-@@||youtube.com/api/stats/*$domain=youtube.com

@@ -3,15 +3,9 @@
 !
 !
 ! Phishing Website
-||sinchew.me^
-||sinchew.online^
-||sinchewnow.com^
-||sinchew.website^
-||sinchewpage.com^
-||sinchewblog.com^
-||sinchewplay.com^
-||s1nchew.com^
-||s1nchew.fun^
+/s1nchew/
+/sinchew/
+@@||sinchew.com.my^$important
 ! lpcontent -- annoying ads content
 ||lpcontent.net^
 ||easylife205.icu^
@@ -24,7 +18,8 @@
 ||mypublicwishlist.xyz^
 ||myutilitysavingsbiz.club^
 ||imgs.gxqr.net^
-||chinapress.xyz^$important
+/chinapress/
+@@||chinapress.com.my^$important
 ||s1nchew.com^$important
 ||billibilli.com^
 ||zd4po.gcwenjiangui.cn^

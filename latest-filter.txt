@@ -3,6 +3,8 @@
 !
 !
 ! Phishing Website
+||sinchew.me^
+||sinchew.website^
 ||sinchewpage.com^
 ||sinchewblog.com^
 ||sinchewplay.com^

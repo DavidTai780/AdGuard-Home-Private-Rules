@@ -4,6 +4,7 @@
 !
 ! Phishing Website
 ||sinchew.me^
+||sinchew.online^
 ||sinchewnow.com^
 ||sinchew.website^
 ||sinchewpage.com^

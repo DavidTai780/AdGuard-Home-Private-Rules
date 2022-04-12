@@ -1,5 +1,5 @@
 ! Title: AGH Filter Rules
-! Version: 2022-01-12 19:44:49
+! Version: 2022-04-12 12:54:49
 !
 !
 ! Phishing Website

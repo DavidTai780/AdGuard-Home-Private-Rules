@@ -3,6 +3,7 @@
 !
 !
 ! Phishing Website
+/go-xuan/
 ||techviralnews.com^
 /s1nchew/
 /sinchew/
